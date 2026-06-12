@@ -1,0 +1,5 @@
+{
+  "version": "2.5.2",
+  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v2.5.2/VSAI.zip",
+  "changelog": "- Nova interface com estilo Glassmorphism moderno (acrilico translucido escuro)!\n- Icones nativos MDL2 tematicos ao lado de cada secao de configuracoes.\n- Linhas de destaque colorido na lateral dos titulos acompanhando a cor do tema ativo.\n- Barra de rolagem minimalista e moderna no estilo Windows 11 com cantos arredondados.\n- Auto-updater atualizado para a versao 2.5.2."
+}
