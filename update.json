@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
-  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v2.5.2/VSAI.zip",
-  "changelog": "- Nova interface com estilo Glassmorphism moderno (acrilico translucido escuro)!\n- Icones nativos MDL2 tematicos ao lado de cada secao de configuracoes.\n- Linhas de destaque colorido na lateral dos titulos acompanhando a cor do tema ativo.\n- Barra de rolagem minimalista e moderna no estilo Windows 11 com cantos arredondados.\n- Auto-updater atualizado para a versao 2.5.2."
+  "version": "3.0.0",
+  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v3.0.0/VSAI.zip",
+  "changelog": "- Suporte a GPU (CUDA) e Intel OpenVINO reescrito com download dinâmico sob demanda (distribuição super leve de 17MB)!\n- Correção definitiva do bug do dropdown que revertia e travava no DirectML.\n- Correção de persistência das opções de motor gráfico e do último modelo carregado ao reiniciar o app.\n- Correção de inicialização do CUDA (zlibwapi.dll embutida no projeto e reordenação de DLLs do cuDNN).\n- Auto-updater atualizado para a versão 3.0.0."
 }
