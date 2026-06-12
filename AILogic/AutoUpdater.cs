@@ -11,7 +11,7 @@ namespace VSAI.AILogic
 {
     public static class AutoUpdater
     {
-        public const string CurrentVersion = "2.5.0";
+        public const string CurrentVersion = "2.5.1";
         private const string DefaultUpdateUrl = "https://raw.githubusercontent.com/VitorSantos32/VSAI/main/update.json";
         private static readonly string ConfigPath = Path.Combine("bin", "updater.cfg");
 
