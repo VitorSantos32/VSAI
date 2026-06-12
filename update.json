@@ -1,0 +1,5 @@
+{
+  "version": "2.5.1",
+  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v2.5.1/VSAI.zip",
+  "changelog": "- Suporte ao TensorRT adicionado!\n- Novo sistema de auto-atualizações online ativado."
+}
