@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v3.0.0/VSAI.zip",
-  "changelog": "- Suporte a GPU (CUDA) e Intel OpenVINO reescrito com download dinâmico sob demanda (distribuição super leve de 17MB)!\n- Correção definitiva do bug do dropdown que revertia e travava no DirectML.\n- Correção de persistência das opções de motor gráfico e do último modelo carregado ao reiniciar o app.\n- Correção de inicialização do CUDA (zlibwapi.dll embutida no projeto e reordenação de DLLs do cuDNN).\n- Auto-updater atualizado para a versão 3.0.0."
+  "version": "4.0.0",
+  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v4.0.0/VSAI.zip",
+  "changelog": "- Interface totalmente nova: visual de vidro preto com brilhos e animacoes, navegacao por abas no topo (Mira, Modelo, Config, Sobre), tudo em PT-BR.\n- Selecao automatica do melhor motor de IA (OpenVINO ou DirectML) para o seu PC na primeira execucao.\n- Suporte a controle: ative a mira por um botao do controle (Xbox, PlayStation ou generico) e envie o movimento via controle virtual (ViGEm).\n- Novo metodo de movimento de mira por Arduino.\n- Mira no controle suavizada, indo direto ao alvo sem tremer.\n- Atualizacao automatica integrada.\n- Mais seguranca de licenca e correcoes de estabilidade (DirectX, controle e tela).\n- Tela de Modelos usa apenas os modelos locais, sem requisicoes a internet."
 }
