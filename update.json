@@ -1,5 +1,5 @@
 {
-  "version": "4.0.1",
-  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v4.0.1/VSAI.zip",
-  "changelog": "- Correcao importante do controle: acabou o bug de travar a mira e ficar jogando pra um lado infinito. Quando o controle fisico e perdido/escondido, o controle virtual e neutralizado na hora.\n- Controle de PS/generico agora centraliza certo (fim do drift constante pra um canto).\n- Novo: o VS esconde o controle fisico do jogo automaticamente (HidHide) enquanto emula o controle virtual, sem configurar nada na mao. Ao fechar, tudo volta ao normal. (Requer HidHide instalado e o VS aberto como administrador.)\n- Ajuste fino da sensibilidade do mouse: mais suave e sem passar do alvo, com suavizacao EMA funcionando de verdade."
+  "version": "4.0.2",
+  "url": "https://github.com/VitorSantos32/VSAI/releases/download/v4.0.2/VSAI.zip",
+  "changelog": "- Nova funcao: Somente Eixo X. Ativando, a mira corrige so o eixo horizontal e deixa o eixo vertical (Y) totalmente livre pra voce controlar na mao (otimo pra controlar recuo). Fica na aba Mira, logo abaixo da Sensibilidade.\n- Funciona com todos os metodos: mouse, controle virtual (ViGEm) e com as predicoes ligadas."
 }
